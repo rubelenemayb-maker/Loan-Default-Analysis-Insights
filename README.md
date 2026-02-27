@@ -4,7 +4,7 @@
 Understand which borrowers are more likely to default on loans and provide actionable recommendations.
 
 ## Dataset
-Loan Default Dataset (~3.75MB) with borrower demographics and loan info.
+Loan Default Prediction Dataset from Kaggle with borrower demographics and loan info.
 
 ## Tools
 - SQL / MySQL Workbench
