@@ -9,7 +9,6 @@ Loan Default Dataset (~3.75MB) with borrower demographics and loan info.
 ## Tools
 - SQL / MySQL Workbench
 - Power BI
-- (Optional) Python / Jupyter Notebook
 
 ## Approach
 1. Data cleaning & preprocessing
