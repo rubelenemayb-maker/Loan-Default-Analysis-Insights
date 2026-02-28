@@ -19,10 +19,10 @@ Financial institutions face credit risk when borrowers fail to repay loans. This
 4. Insights and recommendations
 
 ## Key Insights
-• Highest default rates observed in the 20K–40K income segment.
-• Loans above 100K show elevated default risk (28%).
-• Unemployed borrowers and lower education levels exhibit higher risk.
-• Borrowers under 25 demonstrate significantly higher default rates.
+1. Highest default rates observed in the 20K–40K income segment.
+2. Loans above 100K show elevated default risk (28%).
+3. Unemployed borrowers and lower education levels exhibit higher risk.
+4. Borrowers under 25 demonstrate significantly higher default rates.
 
 ## Recommendations
 1. Strengthen screening for low-income and high loan amount applicants.
