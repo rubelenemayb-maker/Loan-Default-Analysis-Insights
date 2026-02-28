@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes loan default risk using a publicly available dataset from Kaggle. The objective is to identify borrower characteristics associated with higher default rates and provide data-driven recommendations for risk management.
+https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 ## Problem Statement
 Financial institutions face credit risk when borrowers fail to repay loans. This analysis aims to identify patterns and risk indicators that contribute to loan defaults.
