@@ -25,10 +25,10 @@ Financial institutions face credit risk when borrowers fail to repay loans. This
 • Borrowers under 25 demonstrate significantly higher default rates.
 
 ## Recommendations
-• Strengthen screening for low-income and high loan amount applicants.
-• Emphasize employment stability in credit evaluations.
-• Provide targeted financial education for high-risk segments.
-• Incorporate age-based risk considerations into approval policies.
+1. Strengthen screening for low-income and high loan amount applicants.
+2.  Emphasize employment stability in credit evaluations.
+3.  Provide targeted financial education for high-risk segments.
+4.  Incorporate age-based risk considerations into approval policies.
 
 ## Visualizations
 <img width="1438" height="804" alt="Screenshot 2026-02-28 095256" src="https://github.com/user-attachments/assets/ecbffed4-1b98-4644-8562-8d0fe07f29e5" />
