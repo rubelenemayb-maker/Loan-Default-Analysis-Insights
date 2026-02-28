@@ -30,6 +30,8 @@ Financial institutions face credit risk when borrowers fail to repay loans. This
 • Incorporate age-based risk considerations into approval policies.
 
 ## Visualizations
+<img width="1438" height="804" alt="Screenshot 2026-02-28 095256" src="https://github.com/user-attachments/assets/ecbffed4-1b98-4644-8562-8d0fe07f29e5" />
+<img width="1438" height="804" alt="Screenshot 2026-02-28 095256" src="https://github.com/user-attachments/assets/ecbffed4-1b98-4644-8562-8d0fe07f29e5" />
 
 
 
